@@ -1,0 +1,14 @@
+Post install for VIM
+
+Get pathogen file
+curl -so pathogen.vim https://raw.github.com/tpope/vim-pathogen/HEAD/autoload/pathogen.vim
+
+Get nerd tree
+git submodule add https://github.com/vim-scripts/The-NERD-tree.git bundle/nerdtree
+
+Add ctags
+sudo apt-get install exuberant-ctags
+
+Add tag list
+git submodule add https://github.com/vim-scripts/taglist.vim.git bundle/taglist
+
