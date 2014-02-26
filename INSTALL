@@ -12,3 +12,6 @@ sudo apt-get install exuberant-ctags
 Add tag list
 git submodule add https://github.com/vim-scripts/taglist.vim.git bundle/taglist
 
+Add snipmate
+git submodule add https://github.com/msanders/snipmate.vim.git bundle/snipmate
+
