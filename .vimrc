@@ -47,3 +47,4 @@ set ruler
 "Affiche les commandes incomplète 
 set showcmd
 
+colorscheme mustang 
