@@ -10,3 +10,6 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = https://github.com/msanders/snipmate.vim.git
+[submodule "colors/tomorrow.vim"]
+	path = colors/tomorrow.vim
+	url = https://github.com/chriskempson/tomorrow-theme/tree/master/vim/colors/tomorrow.vim
