@@ -15,3 +15,5 @@ git submodule add https://github.com/vim-scripts/taglist.vim.git bundle/taglist
 Add snipmate
 git submodule add https://github.com/msanders/snipmate.vim.git bundle/snipmate
 
+Init sub module after retrieve from github
+git submodule --init update
