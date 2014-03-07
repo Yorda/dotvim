@@ -13,3 +13,6 @@
 [submodule "colors/tomorrow.vim"]
 	path = colors/tomorrow.vim
 	url = https://github.com/chriskempson/tomorrow-theme/tree/master/vim/colors/tomorrow.vim
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim
