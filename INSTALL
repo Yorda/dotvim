@@ -16,4 +16,10 @@ Add snipmate
 git submodule add https://github.com/msanders/snipmate.vim.git bundle/snipmate
 
 Init sub module after retrieve from github
-git submodule --init update
+git submodule init 
+git submodule update
+
+Installation des ctags
+sudo apt-get install exuberant-ctags
+
+Déplacer le fichier .vimrc dans le répertoire personnel
